@@ -1,0 +1,11 @@
+app\App.class
+resources\controller\MainController.class
+app\Colecao.class
+app\NotaAula.class
+app\Livro.class
+app\EntradaFactory.class
+app\Slide.class
+app\Persistencia.class
+app\Biblioteca.class
+app\GerenciadorDeColecoes.class
+app\PdfEntry.class
